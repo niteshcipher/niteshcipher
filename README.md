@@ -31,6 +31,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---github stats ---->
-![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshcipher&show_icons=true&theme=onedark)
-
