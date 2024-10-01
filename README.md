@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Nitesh!
 
-<!--
-**niteshcipher/niteshcipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full-Stack Dev | 🛠️ Code Alchemist | 🚀 Constantly Evolving <br>
+🌱 Turning coffee ☕ into code with JavaScript, Python, and cloud magic ☁️ <br>
+🧠 Obsessed with AI, Open Source, and automating all the things 🤖 <br>
+🔭 Currently exploring Web3, Machine Learning, and DevOps <br>
+🎨 Creative coder by day, gamer 🎮 and tech tinkerer by night <br>
+💡 I believe in learning by doing—from side projects to open-source contributions <br>
 
-Here are some ideas to get you started:
+🌍 Let's build, break, and innovate together. Hit me up for collaborations! <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---github stats ---->
+![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshcipher&show_icons=true&theme=onedark)
+
