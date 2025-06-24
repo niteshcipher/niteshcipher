@@ -9,7 +9,6 @@
     
 🌍 Let's build, break, and innovate together. Hit me up for collaborations! <br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-kumar-203a85274/) 
 
