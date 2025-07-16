@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitesh!
+   # 👋 Hi, I'm Nitesh!
 
 👨‍💻 Full-Stack Dev | 🛠️ Code Alchemist | 🚀 Constantly Evolving <br>
 🌱 Turning coffee ☕ into code with JavaScript, Python, and cloud magic ☁️ <br>
@@ -29,7 +29,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshcipher&show_icons=true&theme=gruvbox)<br/>
